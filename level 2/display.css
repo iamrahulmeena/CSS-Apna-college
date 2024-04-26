@@ -1,0 +1,11 @@
+div{
+    background-color: rgb(219, 142, 41);
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+
+    display: inline;
+    
+}

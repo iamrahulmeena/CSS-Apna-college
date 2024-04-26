@@ -1,0 +1,25 @@
+/* universal Selector */
+/* apply on all webpage */
+*{
+    background-color: pink;
+}
+
+
+/* element selector 
+appply on selected tags*/
+
+h1{
+    background-color: red;
+}
+
+
+/* id Selector */
+#para1{
+    background-color: aqua;
+}
+
+
+/* class Selectors */
+.para2{
+    background-color: green;
+}

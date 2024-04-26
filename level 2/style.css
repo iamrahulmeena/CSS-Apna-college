@@ -1,0 +1,22 @@
+p{
+    border: solid black;
+    border-width: 2px;
+height: 50px;
+width: 500px;
+padding-left: 500px;
+margin-top: 150px;
+background-color: aqua;
+}
+
+h1{
+    border: solid black;
+    border-width: 2px;
+height: 200px;
+width: 700px;
+padding: 50px;
+margin-top: 250px;
+background-color: blue;
+
+border-radius: 30px;
+border-top-left-radius: 500px;
+}
